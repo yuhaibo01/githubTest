@@ -1,0 +1,7 @@
+ribbon:
+  ReadTimeout: 5000
+  ConnectTimeout: 5000
+##开启hystrix断路器 
+feign:
+  hystrix:
+    enabled: true
