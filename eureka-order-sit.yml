@@ -12,3 +12,4 @@ hystrix:
       execution:
         timeout:
           enabled: false
+testName: sit

@@ -5,3 +5,4 @@ ribbon:
 feign:
   hystrix:
     enabled: true
+testName: prd
